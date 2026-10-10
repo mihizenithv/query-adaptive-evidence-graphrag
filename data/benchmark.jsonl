@@ -1,0 +1,4 @@
+{"id":"factual-001","category":"factual","question":"What is the main topic?","ground_truth":"","expected_evidence":[],"expected_retrieval_mode":"hybrid_text"}
+{"id":"multihop-001","category":"multi-hop","question":"How are the main concepts related?","ground_truth":"","expected_evidence":[],"expected_retrieval_mode":"local_graph"}
+{"id":"global-001","category":"global","question":"What are the major themes overall?","ground_truth":"","expected_evidence":[],"expected_retrieval_mode":"global_graph"}
+{"id":"unanswerable-001","category":"impossible","question":"What does the document not discuss?","ground_truth":"insufficient evidence","expected_evidence":[],"expected_retrieval_mode":"hybrid_text"}

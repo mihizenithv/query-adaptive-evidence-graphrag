@@ -1,0 +1,11 @@
+{
+  "child_chunk_size": 900,
+  "parent_chunk_size": 2200,
+  "chunk_overlap": 80,
+  "max_graph_nodes": 120,
+  "max_graph_edges": 180,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "ollama_model": "",
+  "graph_local_threshold": 0.52,
+  "graph_global_threshold": 0.72
+}

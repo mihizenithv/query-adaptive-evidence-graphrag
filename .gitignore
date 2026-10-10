@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/runtime/
+web/node_modules/
+web/.next/
+.env
+
+# portfolio defaults
+venv/
+node_modules/
+.next/
+.env.local
+*.log
+.DS_Store
+Thumbs.db
